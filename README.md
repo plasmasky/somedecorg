@@ -3,7 +3,9 @@ some decentralized org
 
 # contact
 
-Anyone interested in this kind of freedom for individual people - please send any suggestions or questions to: plasmasky (at) peerfreedom.org , oraz PR on github , or catch us on Matrix server @junta.pl
+Anyone interested in this kind of freedom for individual people - please send any suggestions or questions to: plasmasky (at) peerfreedom.org , or PR on github , or catch us on Matrix server @junta.pl
+
+Document is partially in Polish language. This is obviously a draft.
 
 # name
 
