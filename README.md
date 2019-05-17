@@ -14,12 +14,16 @@ some decentralized org
 # goals
 
 Potencjalnie:
+
 Zniesienie progu wyborczego.
 
 Potencjalnie:
+
 Próba odtworzenia homeostatu oraz odsunięcie zawnętrzengo ogranizoratr, przwkształcając system samosterowny w autonomiczny
 
+Potencjalnie:
 
+ja bym jeszcze dodał usunięcie PLNów jako przymusowego środka płatności
 
 
 
