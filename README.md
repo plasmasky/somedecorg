@@ -25,6 +25,7 @@ Potencjalnie:
 
 ja bym jeszcze dodał usunięcie PLNów jako przymusowego środka płatności
 
+Zapewne:
 
-
+przyśpieszenie procedur biurokratycznych, informatyzacja ich, możliwość załatwiania jak największej ilości rzeczy z domu, przez internet itd.
 
