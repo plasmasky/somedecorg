@@ -1,4 +1,9 @@
+
+Manifest dla osób zainteresowanych wolnością i decentralizacją, tutaj prezentujemy naszą wizję do czego warto dążyć i w jaki sposób. 
+
+
 # somedecorg
+
 some decentralized org
 
 # contact
