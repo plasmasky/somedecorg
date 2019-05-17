@@ -66,3 +66,8 @@ Zapewne:
 
 2) metody realizacj strategiczne : cóż ustroju państwa nie zmienimy. Natomiast promowanie takiego podejście w ramach demokracji może coś zmieni. Celem który wskazywal by idealny kierunek działań mogły by być państwa-miasta (chociaż wiadomo że w Polsce co najwyżej w małym stopniu do tego dojdzie za naszego życia)
 
+# inne
+
+https://www.youtube.com/watch?v=5f8ZhUIZsmY
+- NAI Warszawa
+
