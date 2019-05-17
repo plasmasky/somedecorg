@@ -9,7 +9,7 @@ some decentralized org
 * MaHD - Mind and Human Dignity
 * Decentralix
 * MyCountry
-
+* FreedomDIY - do it yourself. od TX ^
 
 # goals
  
