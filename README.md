@@ -13,6 +13,14 @@ some decentralized org
 
 # goals
 
-Próba odtworzenia homeostatu oraz odsunięcie zawnętrzengo ogranizoratr, przwkształcając system samosterowny w autonomiczny?
+Potencjalnie:
+Zniesienie progu wyborczego.
+
+Potencjalnie:
+Próba odtworzenia homeostatu oraz odsunięcie zawnętrzengo ogranizoratr, przwkształcając system samosterowny w autonomiczny
+
+
+
+
 
 
