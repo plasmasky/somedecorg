@@ -11,7 +11,32 @@ some decentralized org
 * MyCountry
 * FreedomDIY - do it yourself. od TX ^
 
-# goals
+# goals - dobry stan jaki chcemy
+
+Te rzeczy zdają się zresztą wynikać z założeń 1) minimalizowanie mocy jałowej  2) wolność jednostki i jej własność są święte
+
+:
+
+1) większa wolność jednostki (ograniczona wolością innych)
+
+2) prostsza biurokracja (i pełna odpowiedzialność urzędników) 
+
+3) mniejsze podatki (a za to mnej socjału) 
+
+4) drastyczne mniejsze lub brak podatków za samą pracę (jak dochodowy)
+
+5) mniejsza regulacja w tym brak zakazywania szyfrowania, prywatności, używania kryptowalut itp 
+
+6) łatwiejszy dostęp do broni do obrony, oraz nie karanie za bronienie się przed napaścią fizyczną 
+
+7) większe poszanowanie własności prywatnej     
+
+8) bardziej krytyczne podejście do tematów, debat, a mniej impulsywne czy też nielogiczne.  
+
+9) Prawo grup ludzi do odizolowania się (np nie wpuszczania nieznajomych przybyszy lub obcokrajowców na ślepo) oraz prawo do odmówienia usługi przez prywatną firmę (np z powodów przekonań). 
+
+
+# goals - part 2
  
 Potencjalnie:
 
