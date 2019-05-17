@@ -1,6 +1,10 @@
 # somedecorg
 some decentralized org
 
+# contact
+
+Anyone interested in this kind of freedom for individual people - please send any suggestions or questions to: plasmasky (at) peerfreedom.org , oraz PR on github , or catch us on Matrix server @junta.pl
+
 # name
 
 * Resistance
