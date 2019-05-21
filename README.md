@@ -22,7 +22,9 @@ Document is partially in Polish language. This is obviously a draft.
 * MyCountry
 * FreedomDIY - do it yourself. od TX ^
 
-# goals - dobry stan jaki chcemy
+---
+
+# methods
 
 Te rzeczy zdają się zresztą wynikać z założeń 1) minimalizowanie mocy jałowej  2) wolność jednostki i jej własność są święte
 
@@ -47,23 +49,27 @@ Te rzeczy zdają się zresztą wynikać z założeń 1) minimalizowanie mocy ja�
 9) Prawo grup ludzi do odizolowania się (np nie wpuszczania nieznajomych przybyszy lub obcokrajowców na ślepo) oraz prawo do odmówienia usługi przez prywatną firmę (np z powodów przekonań). 
 
 
-# goals - part 2
+
  
 Potencjalnie:
 
-1) Zniesienie progu wyborczego.
+B1)
+Zniesienie progu wyborczego.
 
 Potencjalnie:
 
-2) próba odtworzenia homeostatu oraz odsunięcie zawnętrzengo ogranizoratr, przwkształcając system samosterowny w autonomiczny
+B2)
+próba odtworzenia homeostatu oraz odsunięcie zawnętrzengo ogranizoratr, przwkształcając system samosterowny w autonomiczny
 
 Potencjalnie:
 
-3) usunięcie PLNów jako przymusowego środka płatności
+B3)
+usunięcie PLNów jako przymusowego środka płatności
 
 Zapewne:
 
-4) przyśpieszenie procedur biurokratycznych, informatyzacja ich, możliwość załatwiania jak największej ilości rzeczy z domu, przez internet itd.
+B4)
+przyśpieszenie procedur biurokratycznych, informatyzacja ich, możliwość załatwiania jak największej ilości rzeczy z domu, przez internet itd.
 
 # metody realizacji
 
